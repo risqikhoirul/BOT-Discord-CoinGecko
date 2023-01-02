@@ -1,10 +1,10 @@
 ﻿# BOT-Discord-CoinGecko
  
-- [Version](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/main/README.md#version)
-- [Installation](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/main/README.md#installation)
-- [Configuration](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/main/README.md#configuration)
-- [Run Tutorial](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/main/README.md#run-tutorial)
-- [Donation](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/main/README.md#donation)
+- [Version](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/blob/main/README.md#version)
+- [Installation](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/blob/main/README.md#installation)
+- [Configuration](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/blob/main/README.md#configuration)
+- [Run Tutorial](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/blob/main/README.md#run-tutorial)
+- [Donation](https://github.com/risqikhoirul/BOT-Discord-CoinGecko/blob/main/README.md#donation)
 
  ## Version
 | Name | Version |
