@@ -11,7 +11,7 @@
 |------|------------|
 | BOT Discord CoinGecko | V 1.0 |
 | discord.js | V 14.7.1 |
-| node-netch.js | V 2.6.7 |
+| node-fetch.js | V 2.6.7 |
 | Node.js | V 16.13.1 |
 
 ## Installation
@@ -45,4 +45,4 @@ Follow these steps:
 ### Donation
 EVM Metamask Addres: 0x714Cb1145218871fAebD55de36dBE7053cc9C74d
 
-Created by M. Khoirul Risqi
+Created by M. Khoirul Risqi.
