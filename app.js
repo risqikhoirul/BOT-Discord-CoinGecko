@@ -66,7 +66,7 @@ const rest = new REST({ version: "10" }).setToken(TOKEN);
         member.setNickname(`${symbol}: $${lastPrice}`);
         client.user.setPresence({
           activity: {
-            name: "Discord.js",
+            name: "BOT Tracking",
             type: "WATCHING",
           },
           status: "online",
@@ -117,11 +117,11 @@ const rest = new REST({ version: "10" }).setToken(TOKEN);
             .addFields(
               { name: `${symbol} price`, value: `$${lastPrice}` },
               //{ name: 'Market Cap', value: `$${market_cap}` },
-              { name: "Volume (24)", value: `$${volume}`, inline: true },
-              { name: "Price change (24H)", value: `${pr}${priceChange}%`, inline: true },
+              { name: "Volume (24h)", value: `$${volume}`, inline: true },
+              { name: "Price change (24h)", value: `${pr}${priceChange}%`, inline: true },
               { name: "------------------------------------", value: "-------------------------------------" },
               { name: "High price (24h)", value: `$${high_24h}`, inline: true },
-              { name: "Low price (24)", value: `$${low_24h}`, inline: true },
+              { name: "Low price (24h)", value: `$${low_24h}`, inline: true },
               { name: "\u200B", value: "\u200B" }
             )
             .addFields({ name: "Last update", value: `Date: ${date}\nTime: ${lastime}` })
